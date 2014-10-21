@@ -1,0 +1,795 @@
+# Ten plik viminfo został wygenerowany przez Vima 7.4.
+# Możesz go ostrożnie edytować!
+
+# Wartość 'encoding' w czasie zapisu tego pliku
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Ostatni Wyszukiwany wzorzec:
+~MSle0/pick
+
+# Ostatni Podstawienie Wyszukiwany wzorzec:
+~MSle0~&pick
+
+# Ostatni podstawiany ciąg:
+$s
+
+# Wiersz poleceń Historia (od najnowszych po najstarsze):
+:q!
+:%s/pick/s/gc
+:s%/pick/s/gc
+:let g:go_disable_autoinstall = 1
+:%s/room-service/concierge-api/gc
+:color 
+:color solarized
+
+# Szukany ciąg Historia (od najnowszych po najstarsze):
+? pick
+? \s\+$
+? /pick/s/gc
+?/opt
+?/SDK
+?/mac
+? room-service
+?/PATH
+? \<rm\>
+
+# Wyrażenie Historia (od najnowszych po najstarsze):
+
+# Wiersz wprowadzeń Historia (od najnowszych po najstarsze):
+@y
+
+# Wiersz wprowadzeń Historia (od najnowszych po najstarsze):
+
+# Rejestry:
+""1	LINE	0
+	DS_Store
+"2	LINE	0
+	ENV NGINX_VERSION 1.7.4
+"3	LINE	0
+	397
+<104.131.26.93 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCsORQJHHsFtRzx6lAzDvym79s3U+iyCdjNuLoRTuq5qymwHb+Zlv1ocFvIZqBH8FEzwH2JITVKcuOtHZ6as09hYGTDPU3gHCOnb9JHepf1qUkgN5xXVJ6e1SSDXLEFXonN2tSYsAqPUeIhHv01BqUQ44lG4G2bIr9fDvDJrRe2I9EJB+FXjnyD6Dlqn+LibpxyJ7qPKCN3o9UC3xpuEFJKetlPYFy+wDO6Bs/cqN8nD/vTZNwCclgh4FJ561K4vjU+zY2Eio2r4pb4hwJTpt0ICFh3raPk7cqLvcxpu3eU6OClfn5JOa54S9OX9MRF6Otk1lce5wU1+sycbI00mfUB
+"4	LINE	0
+	
+	# This is the 8th commit message:
+	
+	Updated dependencies
+	
+"5	LINE	0
+	
+"6	LINE	0
+	
+	# This is the 5th commit message:
+	
+	Fixed test
+	
+	# This is the 6th commit message:
+	
+	Updated dependencies and gradle wrapper
+	
+	# This is the 7th commit message:
+"7	LINE	0
+	
+	# This is the 5th commit message:
+	
+	Fixed test
+	
+	# This is the 6th commit message:
+	
+	Updated dependencies and gradle wrapper
+	
+	# This is the 7th commit message:
+	
+	Ignored test
+	
+	# This is the 8th commit message:
+	
+	Updated dependencies
+	
+"8	LINE	0
+	
+	# This is the 3rd commit message:
+	
+	Updated gradle
+	
+	# This is the 4th commit message:
+	
+"9	LINE	0
+	
+	# This is the 2nd commit message:
+	
+"-	LINE	0
+	
+	# This is the 8th commit message:
+	
+	Updated dependencies
+	
+
+# Zakładki w plikach:
+'0  2  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+'1  3  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+'2  5  5  /Users/exclude_sync.txt
+'3  1  8  /Users/exclude_sync.txt
+'4  3  0  ~/enc_sync.sh
+'5  1  0  ~/s
+'6  5  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+'7  1  0  ~/git/java/oauth/oauth-uaa/.git/MERGE_MSG
+'8  45  42  ~/.profile
+'9  7  0  ~/git/nodejs/mohi-io-www-docker/Dockerfile
+
+# Lista odniesień (począwszy od najnowszych):
+-'  2  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+-'  3  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+-'  5  5  /Users/exclude_sync.txt
+-'  1  8  /Users/exclude_sync.txt
+-'  29  5  /Users/exclude_sync.txt
+-'  3  0  ~/enc_sync.sh
+-'  1  0  ~/s
+-'  5  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+-'  1  0  ~/git/java/oauth/oauth-uaa/.git/MERGE_MSG
+-'  45  42  ~/.profile
+-'  70  0  ~/.profile
+-'  7  0  ~/git/nodejs/mohi-io-www-docker/Dockerfile
+-'  1  0  ~/git/nodejs/mohi-io-www-docker/Dockerfile
+-'  82  0  ~/.ssh/known_hosts
+-'  1  83  ~/.ssh/known_hosts
+-'  6  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+-'  7  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+-'  9  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+-'  10  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+-'  3  0  ~/.npmrc_
+-'  1  0  ~/.npmrc_
+-'  11  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+-'  12  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+-'  13  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+-'  3  0  /Library/LaunchDaemons/com.zdziarski.macrandomize.plist
+-'  1  0  /Library/LaunchDaemons/com.zdziarski.macrandomize.plist
+-'  2  0  /opt/local/bin/macrandomize.sh
+-'  1  0  /opt/local/bin/macrandomize.sh
+-'  3  0  /opt/local/bin/macrandomize.sh
+-'  6  12  ~/git/java/oauth-uaa/.git/COMMIT_EDITMSG
+-'  7  0  ~/git/java/oauth-uaa/.git/COMMIT_EDITMSG
+-'  1  0  ~/git/java/oauth-uaa/.git/COMMIT_EDITMSG
+-'  3  9  ~/git/java/oauth-uaa/.git/COMMIT_EDITMSG
+-'  4  34  ~/git/java/oauth-uaa/.git/COMMIT_EDITMSG
+-'  26  6  ~/git/java/oauth-uaa/.git/rebase-merge/git-rebase-todo
+-'  1  0  ~/git/java/oauth-uaa/.git/rebase-merge/git-rebase-todo
+-'  15  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+-'  16  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+-'  1  0  ~/stepniak.it.key
+-'  17  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+-'  1  85  ~/.vimrc.before.local
+-'  18  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+-'  272  34  ~/git/default/server.js
+-'  278  0  ~/git/default/server.js
+-'  248  4  ~/git/default/server.js
+-'  247  42  ~/git/default/server.js
+-'  1  0  ~/git/default/server.js
+-'  1  0  ~/git/java/gradle-repo/version.gradle
+-'  4  0  ~/git/gradle-versions-plugin/.git/COMMIT_EDITMSG
+-'  1  0  ~/git/gradle-versions-plugin/.git/COMMIT_EDITMSG
+-'  9  6  ~/git/gradle-versions-plugin/.git/rebase-merge/git-rebase-todo
+-'  1  1  ~/git/gradle-versions-plugin/.git/rebase-merge/git-rebase-todo
+-'  2  0  ~/git/gradle-versions-plugin/.git/rebase-merge/git-rebase-todo
+-'  1  0  ~/git/gradle-versions-plugin/.git/MERGE_MSG
+-'  7  0  /private/tmp/hello.go
+-'  8  0  /private/tmp/hello.go
+-'  1  0  /private/tmp/hello.go
+-'  3  0  ~/[Vundle] clean
+-'  1  0  ~/vim_update.sh
+-'  3  0  ~/git/java/getconciergeapp/deploy/.git/COMMIT_EDITMSG
+-'  1  0  ~/git/java/getconciergeapp/deploy/.git/COMMIT_EDITMSG
+-'  10  6  ~/git/java/getconciergeapp/deploy/.git/rebase-merge/git-rebase-todo
+-'  2  0  ~/git/java/getconciergeapp/deploy/.git/rebase-merge/git-rebase-todo
+-'  1  0  ~/git/java/getconciergeapp/deploy/.git/rebase-merge/git-rebase-todo
+-'  1  0  ~/git/java/getconciergeapp/scripts/tmp/admin/.git/config
+-'  4  0  ~/git/java/getconciergeapp/.git/modules/concierge-api-sdk/COMMIT_EDITMSG
+-'  1  0  ~/git/java/getconciergeapp/.git/modules/concierge-api-sdk/COMMIT_EDITMSG
+-'  19  6  ~/git/java/getconciergeapp/.git/modules/concierge-api-sdk/rebase-merge/git-rebase-todo
+-'  2  0  ~/git/java/getconciergeapp/.git/modules/concierge-api-sdk/rebase-merge/git-rebase-todo
+-'  1  0  ~/git/java/getconciergeapp/.git/modules/concierge-api-sdk/rebase-merge/git-rebase-todo
+-'  1  0  ~/sync.sh
+-'  3  0  ~/git/java/getconciergeapp/scripts/tmp/concierge_/.git/config
+-'  1  0  ~/git/java/getconciergeapp/scripts/tmp/concierge_/.git/config
+-'  2  47  ~/git/java/getconciergeapp/scripts/tmp/concierge/.git/config
+-'  3  1  ~/git/java/getconciergeapp/scripts/tmp/concierge/.git/config
+-'  1  0  ~/git/java/getconciergeapp/scripts/tmp/concierge/.git/config
+-'  1  0  ~/git/java/getconciergeapp/concierge-api/.git/modules/common/qrcode/MERGE_MSG
+-'  1  0  ~/git/java/getconciergeapp/concierge-api/.git/modules/common/config/MERGE_MSG
+-'  1  0  ~/git/java/getconciergeapp/scripts/tmp/client/.git/COMMIT_EDITMSG
+-'  9  57  ~/git/java/roomserviceproject/concierge-api/.git/config
+-'  1  0  ~/git/java/roomserviceproject/concierge-api/.git/config
+-'  1  0  ~/git/java/getconciergeapp/.git/modules/api-load-balancing/MERGE_MSG
+-'  17  24  ~/git/java/getconciergeapp/concierge-api/build.gradle
+-'  1  0  ~/git/java/getconciergeapp/concierge-api/build.gradle
+-'  1  0  ~/git/java/roomserviceproject/concierge-api/.git/modules/common/server/MERGE_MSG
+-'  1  0  ~/git/java/roomserviceproject/concierge-api/.git/modules/common/config/MERGE_MSG
+-'  1  0  ~/git/java/roomserviceproject/concierge-api/.git/modules/common/auth-client/MERGE_MSG
+-'  1  0  ~/git/java/roomserviceproject/concierge-api/.git/MERGE_MSG
+-'  5  15  ~/.vimrc.local
+-'  2  15  ~/.vimrc.local
+-'  1  0  ~/.vimrc.local
+-'  5  0  ~/sync.sh
+-'  19  0  ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+-'  1  0  ~/git/oauth/oauth2-uaa/.git/MERGE_MSG
+-'  1  0  ~/git/video-paste/video-paste/.git/COMMIT_EDITMSG
+-'  11  0  ~/git/video-paste/video-paste/.git/rebase-merge/git-rebase-todo
+-'  1  0  ~/git/video-paste/video-paste/.git/rebase-merge/git-rebase-todo
+-'  1  16  ~/git/java/roomserviceproject/concierge-api/.git/modules/common/db/MERGE_MSG
+
+# Historia zakładek w plikach (od najnowszych po najstarsze):
+
+> ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] Installer
+	"	71	0
+	.	1	0
+	+	1091	0
+	+	1022	0
+	+	951	0
+	+	885	0
+	+	819	0
+	+	753	0
+	+	687	0
+	+	621	0
+	+	555	0
+	+	487	0
+	+	419	0
+	+	350	0
+	+	281	0
+	+	211	0
+	+	141	0
+	+	71	0
+	+	1	0
+
+> ~/.spf13-vim-3/.vim/bundle/vundle/[Vundle] clean
+	"	2	0
+	.	1	0
+	+	20	0
+	+	19	0
+	+	18	0
+	+	17	0
+	+	16	0
+	+	15	0
+	+	13	0
+	+	12	0
+	+	11	0
+	+	10	0
+	+	9	0
+	+	7	0
+	+	6	0
+	+	5	0
+	+	3	0
+	+	2	0
+	+	1	0
+
+> /Users/exclude_sync.txt
+	"	5	5
+	^	5	6
+	.	5	5
+	+	27	0
+	+	1	9
+	+	5	5
+
+> ~/enc_sync.sh
+	"	3	0
+
+> ~/s
+	"	1	0
+
+> ~/git/java/oauth/oauth-uaa/.git/MERGE_MSG
+	"	1	0
+
+> ~/.profile
+	"	45	42
+	^	45	43
+	.	45	43
+	+	55	35
+	+	45	43
+
+> ~/git/nodejs/mohi-io-www-docker/Dockerfile
+	"	7	0
+	.	7	0
+	+	1	7
+	+	3	29
+	+	1	2
+	+	3	26
+	+	5	10
+	+	7	0
+
+> ~/.ssh/known_hosts
+	"	82	0
+	.	83	0
+	+	83	0
+
+> ~/.npmrc_
+	"	3	0
+
+> /Library/LaunchDaemons/com.zdziarski.macrandomize.plist
+	"	3	0
+	^	19	49
+	.	4	0
+	+	1	38
+	+	2	105
+	+	3	21
+	+	19	41
+	+	4	0
+
+> /opt/local/bin/macrandomize.sh
+	"	2	0
+	^	2	0
+	.	1	0
+	+	3	0
+	+	1	0
+
+> ~/git/java/oauth-uaa/.git/COMMIT_EDITMSG
+	"	6	12
+	^	6	13
+	.	6	12
+	+	3	0
+	+	3	0
+	+	3	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	6	12
+
+> ~/git/java/oauth-uaa/.git/rebase-merge/git-rebase-todo
+	"	26	6
+	.	21	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+
+> ~/stepniak.it.key
+	"	1	0
+
+> ~/.vimrc.before.local
+	"	1	85
+	^	1	86
+	.	1	85
+	+	1	83
+	+	1	84
+	+	1	85
+
+> ~/git/default/server.js
+	"	272	34
+	^	272	35
+	.	272	34
+	+	183	113
+	+	185	83
+	+	185	84
+	+	185	85
+	+	189	99
+	+	189	100
+	+	189	165
+	+	189	0
+	+	189	178
+	+	189	188
+	+	191	97
+	+	191	98
+	+	191	99
+	+	195	62
+	+	201	28
+	+	202	74
+	+	203	25
+	+	210	59
+	+	213	25
+	+	215	30
+	+	217	47
+	+	220	112
+	+	220	115
+	+	222	92
+	+	222	93
+	+	222	94
+	+	226	131
+	+	226	157
+	+	228	86
+	+	228	112
+	+	228	113
+	+	228	114
+	+	232	85
+	+	232	114
+	+	232	123
+	+	234	82
+	+	234	98
+	+	234	114
+	+	234	143
+	+	234	144
+	+	234	145
+	+	238	141
+	+	238	0
+	+	241	146
+	+	241	0
+	+	242	154
+	+	242	0
+	+	243	170
+	+	243	0
+	+	244	188
+	+	244	0
+	+	247	177
+	+	247	200
+	+	253	188
+	+	253	198
+	+	253	206
+	+	254	193
+	+	254	196
+	+	257	190
+	+	257	202
+	+	257	203
+	+	257	207
+	+	257	208
+	+	257	209
+	+	258	201
+	+	258	202
+	+	258	205
+	+	258	206
+	+	263	204
+	+	263	216
+	+	263	217
+	+	263	221
+	+	263	222
+	+	263	223
+	+	264	213
+	+	264	214
+	+	264	220
+	+	264	229
+	+	264	230
+	+	264	231
+	+	268	243
+	+	268	0
+	+	269	223
+	+	269	224
+	+	269	227
+	+	269	228
+	+	269	235
+	+	269	236
+	+	269	245
+	+	269	246
+	+	274	225
+	+	274	229
+	+	276	231
+	+	276	236
+	+	278	226
+	+	278	227
+	+	278	249
+	+	278	256
+	+	279	6
+	+	272	34
+
+> ~/git/java/gradle-repo/version.gradle
+	"	1	0
+
+> ~/git/gradle-versions-plugin/.git/COMMIT_EDITMSG
+	"	4	0
+	.	4	0
+	+	4	0
+
+> ~/git/gradle-versions-plugin/.git/rebase-merge/git-rebase-todo
+	"	9	6
+	^	2	2
+	.	4	0
+	+	1	0
+	+	2	0
+	+	3	0
+	+	4	0
+
+> ~/git/gradle-versions-plugin/.git/MERGE_MSG
+	"	1	0
+
+> /private/tmp/hello.go
+	"	7	0
+	^	7	5
+	.	8	0
+	+	3	12
+	+	5	13
+	+	6	32
+	+	7	4
+	+	6	0
+	+	8	0
+
+> ~/[Vundle] Installer
+	"	67	0
+	.	1	0
+	+	199	0
+	+	133	0
+	+	67	0
+	+	1	0
+
+> ~/[Vundle] clean
+	"	2	0
+	.	1	0
+	+	4	0
+	+	3	0
+	+	2	0
+	+	1	0
+
+> ~/vim_update.sh
+	"	1	0
+
+> ~/git/java/getconciergeapp/deploy/.git/COMMIT_EDITMSG
+	"	3	0
+	.	3	0
+	+	3	0
+
+> ~/git/java/getconciergeapp/deploy/.git/rebase-merge/git-rebase-todo
+	"	10	6
+	.	5	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+
+> ~/git/java/getconciergeapp/scripts/tmp/admin/.git/config
+	"	1	0
+	^	10	6
+	.	2	0
+	+	1	6
+	+	1	0
+	+	2	4
+	+	8	17
+	+	10	5
+	+	2	0
+
+> ~/git/java/getconciergeapp/.git/modules/concierge-api-sdk/COMMIT_EDITMSG
+	"	4	0
+	.	4	0
+	+	4	0
+
+> ~/git/java/getconciergeapp/.git/modules/concierge-api-sdk/rebase-merge/git-rebase-todo
+	"	19	6
+	.	14	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+
+> ~/sync.sh
+	"	1	0
+
+> ~/.spf13-vim-3/[Vundle] Installer
+	"	67	0
+	.	1	0
+	+	781	0
+	+	709	0
+	+	637	0
+	+	566	0
+	+	495	0
+	+	424	0
+	+	353	0
+	+	282	0
+	+	211	0
+	+	139	0
+	+	67	0
+	+	1	0
+
+> ~/.spf13-vim-3/[Vundle] clean
+	"	15	0
+	.	1	0
+	+	30	0
+	+	28	0
+	+	27	0
+	+	24	0
+	+	23	0
+	+	22	0
+	+	21	0
+	+	19	0
+	+	18	0
+	+	17	0
+	+	15	0
+	+	1	0
+
+> ~/git/java/getconciergeapp/scripts/tmp/concierge_/.git/config
+	"	3	0
+
+> ~/git/java/getconciergeapp/scripts/tmp/concierge/.git/config
+	"	2	47
+	^	2	48
+	.	2	45
+	+	2	42
+	+	2	42
+	+	2	37
+	+	2	45
+
+> ~/git/java/getconciergeapp/concierge-api/.git/modules/common/qrcode/MERGE_MSG
+	"	1	0
+
+> ~/git/java/getconciergeapp/concierge-api/.git/modules/common/config/MERGE_MSG
+	"	1	0
+
+> ~/git/java/getconciergeapp/scripts/tmp/client/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/git/java/roomserviceproject/concierge-api/.git/config
+	"	9	57
+	^	9	58
+	.	9	57
+	+	9	57
+
+> ~/git/java/getconciergeapp/.git/modules/api-load-balancing/MERGE_MSG
+	"	1	0
+
+> ~/git/java/getconciergeapp/concierge-api/build.gradle
+	"	17	24
+	^	17	25
+	.	17	24
+	+	17	24
+
+> ~/git/java/roomserviceproject/concierge-api/.git/modules/common/server/MERGE_MSG
+	"	1	0
+
+> ~/git/java/roomserviceproject/concierge-api/.git/modules/common/config/MERGE_MSG
+	"	1	0
+
+> ~/git/java/roomserviceproject/concierge-api/.git/modules/common/auth-client/MERGE_MSG
+	"	1	0
+
+> ~/git/java/roomserviceproject/concierge-api/.git/MERGE_MSG
+	"	1	0
+
+> ~/.vimrc.local
+	"	5	15
+	^	2	16
+	.	9	24
+	+	3	57
+	+	4	67
+	+	5	61
+	+	6	16
+	+	9	24
+
+> ~/git/oauth/oauth2-uaa/.git/MERGE_MSG
+	"	1	0
+
+> ~/git/video-paste/video-paste/.git/COMMIT_EDITMSG
+	"	1	0
+	^	1	1
+	.	39	0
+	+	4	0
+	+	3	0
+	+	7	1
+	+	11	1
+	+	7	0
+	+	15	0
+	+	19	0
+	+	23	0
+	+	27	0
+	+	31	0
+	+	35	0
+	+	39	0
+
+> ~/git/video-paste/video-paste/.git/rebase-merge/git-rebase-todo
+	"	11	0
+	.	10	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+
+> ~/git/java/roomserviceproject/concierge-api/.git/modules/common/db/MERGE_MSG
+	"	1	16
+
+> ~/git/deploy/admin-server/.git/config
+	"	12	10
+	^	12	12
+	.	12	11
+	+	13	0
+	+	12	11
+
+> ~/git/deploy/services-server/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/git/oauth/login-server/build.gradle
+	"	34	1
+	.	11	26
+	+	10	26
+	+	11	26
+
+> ~/git/oauth/login-server/gradle/wrapper/gradle-wrapper.properties
+	"	6	67
+	.	6	67
+	+	6	67
+
+> /opt/local/lib/node_modules/npm_lazy/config.js
+	"	18	0
+	.	26	11
+	+	26	11
+
+> ~/.bash_profile
+	"	100	0
+	^	99	62
+	.	99	61
+	+	101	0
+	+	94	108
+	+	98	54
+	+	99	61
+
+> ~/git/java/roomserviceproject/androidclient/settings.gradle
+	"	1	41
+	^	1	42
+	.	1	40
+	+	1	34
+	+	2	15
+	+	3	34
+	+	4	0
+	+	1	40
+
+> ~/git/pushd/Procfile
+	"	1	15
+	^	1	16
+	.	1	18
+	+	1	18
+
+> ~/git/java/roomserviceproject/room-service-api/.git/config
+	"	11	16
+	^	11	17
+	.	9	47
+	+	9	47
+
+> ~/git/java/roomserviceproject/room-service-api/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/.spf13-vim-3/.vimrc.local
+	"	1	0
+
+> ~/git/api/storage/api-storage-s3/.gitignore
+	"	9	4
+	^	9	5
+	.	9	0
+	+	9	0
+
+> ~/git/api/storage/api-storage-file/.gitignore
+	"	7	8
+	^	7	9
+	.	7	0
+	+	8	0
+	+	7	0
+
+> ~/git/api/auth/ag.sh
+	"	12	0
+	^	12	1
+	.	12	0
+	+	1	11
+	+	8	3
+	+	6	29
+	+	9	0
+	+	10	10
+	+	10	52
+	+	11	37
+	+	11	36
+	+	1	11
+	+	5	0
+	+	2	0
+	+	3	5
+	+	12	0

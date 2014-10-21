@@ -1,0 +1,10 @@
+rsync -avzm --stats --delete --delete-excluded --progress --cvs-exclude --exclude ".git" --exclude-from '/Users/exclude_sync.txt' /Users/Zenedith/git/java/getconciergeapp /Volumes/Boxcryptor\ Classic/
+rsync -avzm --stats --delete --delete-excluded --progress --cvs-exclude --exclude ".git" --exclude-from '/Users/exclude_sync.txt' /Users/Zenedith/git/java/AllegroProxyAPI /Volumes/Boxcryptor\ Classic/
+rsync -avzm --stats --delete --delete-excluded --progress --cvs-exclude --exclude ".git" --exclude-from '/Users/exclude_sync.txt' /Users/Zenedith/git/java/api /Volumes/Boxcryptor\ Classic/
+rsync -avzm --stats --delete --delete-excluded --progress --cvs-exclude --exclude ".git" --exclude-from '/Users/exclude_sync.txt' /Users/zenedith/git/java/swagger-jersey2-gradle-demo-app /Volumes/Boxcryptor\ Classic/
+rsync -avzm --stats --delete --delete-excluded --progress --cvs-exclude --exclude ".git" --exclude-from '/Users/exclude_sync.txt' /Users/Zenedith/git/java/photo-gather-api /Volumes/Boxcryptor\ Classic/
+rsync -avzm --stats --delete --delete-excluded --progress --cvs-exclude --exclude ".git" --exclude-from '/Users/exclude_sync.txt' /Users/Shared/Others /Volumes/Boxcryptor\ Classic/
+rsync -avzm --stats --delete --delete-excluded --progress --cvs-exclude --exclude ".git" --exclude-from '/Users/exclude_sync.txt' /Users/Zenedith/git/android/photo-gather /Volumes/Boxcryptor\ Classic/
+rsync -avzm --stats --delete --delete-excluded --progress --cvs-exclude --exclude ".git" --exclude-from '/Users/exclude_sync.txt' /Users/Zenedith/git/nodejs /Volumes/Boxcryptor\ Classic/
+rsync -avzm --stats --delete --delete-excluded --progress --cvs-exclude --exclude ".git" --exclude-from '/Users/exclude_sync.txt' /Users/Zenedith/git/varnish/libvmod-uaa-oauth /Volumes/Boxcryptor\ Classic/varnish/
+rsync -avzm --stats --delete --delete-excluded --progress --cvs-exclude --exclude ".git" --exclude-from '/Users/exclude_sync.txt' /Users/Zenedith/git/docker/docker-varnish /Volumes/Boxcryptor\ Classic/docker/
