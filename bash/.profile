@@ -15,6 +15,7 @@ alias gs='git status'
 alias gc='git commit -m' # requires you to type a commit message
 alias gp='git push'
 
+
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="/Users/zenedith/.sdkman"
 [[ -s "/Users/zenedith/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/zenedith/.sdkman/bin/sdkman-init.sh"
